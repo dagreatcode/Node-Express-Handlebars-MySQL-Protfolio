@@ -1,13 +1,9 @@
-* {
-
-}
+* {}
 
 body {
-    
+    background-image: url("../Images/ignasi_pattern_s.png");
 
 }
-
-
 
 .selector-for-some-widget {
     box-sizing: content-box;
@@ -15,19 +11,12 @@ body {
 
 .bg-primary {
     background-color: rgb(24, 201, 156)!important;
-
-}
-
-main {     
-  background-image: url("../Images/ignasi_pattern_s.png");
-
 }
 
 @media screen and (max-width: 768px) {
 
   div {
     background-color: red;
-
   }
   
   .container {
